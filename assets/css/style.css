@@ -1,0 +1,39 @@
+.navbar.navbar-expand-lg.bg-secondary{
+    
+    background: rgb(172,172,172);
+background: radial-gradient(circle, rgba(172,172,172,1) 0%, rgba(163,227,255,0.4318102240896359) 100%);
+    
+    /*background: rgb(251,4,4);
+background: linear-gradient(0deg, rgba(251,4,4,1) 0%, rgba(251,4,4,1) 33.33%, rgba(4,4,251,1) 33.333%, rgba(4,4,251,1) 66.66%, rgba(254,255,0,1) 66.66%, rgba(254,255,0,1) 100%);*/
+}
+
+i.fa-brands.fa-instagram.fa-2xl:hover{ 
+   color: rgb(255, 51, 0);
+}
+
+.fa-brands.fa-linkedin.fa-2xl:hover{
+    color: rgb(14, 118, 168);
+}
+
+.fa-brands.fa-github.fa-2xl:hover{
+    color: rgb(255, 255, 255);
+}
+
+.fa-brands.fa-square-twitter.fa-2xl:hover{
+    color:rgb(0, 172, 238);
+}
+
+.fa-brands.fa-facebook.fa-2xl:hover{
+    color:rgb(59, 89, 152);
+}
+
+.fa-solid.fa-user.fa-xl:hover{
+    color: rgb(255, 255, 255);
+}
+
+
+.list-group{
+    --bs-list-group-bg: transparent;
+    --bs-list-group-border-color:transparent;
+}
+
